@@ -1,0 +1,47 @@
+* {
+    margin: 100;
+    padding: 100;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+:root {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+body {
+    background-color: floralwhite;
+    color: darkcyan;
+    margin: 10%;
+    line-height: 1.6;
+    word-wrap: break-word;
+    }
+
+h1 {
+    color: darkmagenta;
+
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3 {
+    color: darkslateblue;
+}
+
+p.normal {
+    font-weight: normal;
+}
+
+#para1 {
+    text-decoration: underline;
+}
+
+.para2 {
+    text-align: right;
+}
+/*no se como hacer las quotes ni los hyphens ni para que sirven*/
